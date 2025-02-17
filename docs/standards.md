@@ -25,8 +25,8 @@ tags:
 
 | Название стандарта | Описание | Ссылка |
 | -------- | -------- | ------ |
-| **ГОСТ 56939 РБПО** | Документ ГОСТ 56939 | [internet-law.ru](https://internet-law.ru/gosts/gost/62688/) |
-|  | Краткий обзор ГОСТ 56939 | [securitylab.ru](https://www.securitylab.ru/blog/personal/crypto-anarchist/312897.php) |
+| **ГОСТ 56939-2024 РБПО** | Новая редакция документа ГОСТ 56939 от 20.12.2024 | [ГОСТ_56939-2024](https://base.garant.ru/410749342/?ysclid=m78z5wai1g9599691) |
+|  | Краткий обзор ГОСТ 56939-2016 (старой редакции нового ГОСТ 56939-2024) | [securitylab.ru](https://www.securitylab.ru/blog/personal/crypto-anarchist/312897.php) |
 | **ГОСТ 15408** | ГОСТ 15408-1 | [docs.cntd.ru/1200101777](https://docs.cntd.ru/document/1200101777) |
 |  | ГОСТ 15408-2 | [docs.cntd.ru/1200105710](https://docs.cntd.ru/document/1200105710) |
 |  | ГОСТ 15408-3 | [docs.cntd.ru/1200105711](https://docs.cntd.ru/document/1200105711) |
